@@ -35,7 +35,7 @@ This shows the model explains about 65.8% of the price variance, with an average
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/prime-programmer-ar/PRODIGY_ML_01
-    cd your-repo
+    cd PRODIGY_ML_01
     ```
 
 2.  **Install dependencies:**
@@ -56,4 +56,5 @@ This shows the model explains about 65.8% of the price variance, with an average
 - Pandas
 - Scikit-learn
 - Matplotlib
+
 - Seaborn
