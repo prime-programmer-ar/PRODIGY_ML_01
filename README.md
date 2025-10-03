@@ -56,5 +56,8 @@ This shows the model explains about 65.8% of the price variance, with an average
 - Pandas
 - Scikit-learn
 - Matplotlib
-
 - Seaborn
+
+### Dataset Used
+- https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
